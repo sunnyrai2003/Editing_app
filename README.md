@@ -1,1 +1,3 @@
 # Editing_app
+This project aims to create a web application that allows users to edit images using Python's Flask framework and OpenCV library. The application will provide a user-friendly interface for various image manipulation tasks, making it accessible even for those with minimal technical skills.
+Building an image editing website using Python Flask and OpenCV is a rewarding project that combines web development with image processing. It not only enhances your programming skills but also provides a practical tool for users to edit images conveniently online. This project can serve as a foundation for more advanced features, such as user accounts, image galleries, or even integration with social media platforms for sharing edited images.
